@@ -5,7 +5,7 @@
 *
 * @package ElggFriends
 * @author Alex Falk, RiverVanRain
-* @url http://weborganizm.org/crewz/p/1983/personal-net
+* @url http://o.wzm.me/crewz/p/1983/personal-net
 */
 
 
